@@ -54,7 +54,8 @@ I enjoy working across the development lifecycle — from designing and developi
 
 ## 📌 Featured Projects
 
-### 💰 Expense Tracker
+
+### 💳 Expense Tracker
 A full-stack expense management application built with **Django, Django REST Framework, React, and MySQL**.
 
 **Key Features:**
